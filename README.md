@@ -73,13 +73,10 @@ void main()
 
 ```
 
-## RESULT:
-
- The program is executed and the result is obtained.
-
-
-
 ## OUTPUT :-
 
 ![Screenshot 2025-03-28 091321](https://github.com/user-attachments/assets/c9757351-5a4e-4431-812f-8e30ee07f59a)
 
+## RESULT:
+
+ The program is executed and the result is obtained.
